@@ -1,7 +1,7 @@
 import os
 
-TOKEN = '7963821303:AAH-TfzCnfjYYX3JJRFhTjEXJaGv4z-UI-M'
+TOKEN = ''
 DATABASE_URL = 'sqlite:///bot.db'  # или другая БД
-TON_API_KEY = '7e871f1f84625ca426bc2f4da176035b6fb502b7280604d420aa2a1789c6571c'
+TON_API_KEY = ''
 EXCHANGE_API_KEY = 'YOUR_EXCHANGE_API_KEY'
-ADMIN_ID = 334125919  # ID администратора
+ADMIN_ID =   # ID администратора
